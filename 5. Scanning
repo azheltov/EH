@@ -1,0 +1,10 @@
+TCP and UDP protocols
+
+transmission control protocol
+TCP 3-way handshake
+1) syn
+2) syn/ack
+3) ack
+
+user datagram protocol
+(error checking is out)
